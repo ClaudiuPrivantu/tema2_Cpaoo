@@ -1,0 +1,1 @@
+add_library(Boat STATIC Boat.cpp)
